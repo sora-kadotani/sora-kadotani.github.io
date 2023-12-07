@@ -1,0 +1,87 @@
+baseURL = "https://sora-kadotani.github.io/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Sora Kadotani"
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+hasCJKLanguage = true
+paginate = 3
+
+[params]
+  title = "Sora Kadotani"
+  author = "Sora Kadotani"
+  description = "Researching NLP and LLM @ NTT Human Informatics Laboratories"
+  profilePicture = "png/selfy.png"
+  mainSections = [""]
+  customCss = ["css/custom.css"]
+  doNotLoadAnimations = true
+  singleDateFormat = "Jan 02, 2006"
+  indexDateFormat = "Jan 02, 2006"
+  listDateFormat = "Jan 02, 2006"
+
+  # Social links
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/sora-kadotani"
+
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/kadotani_nlp"
+
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "e-mail"
+    url = "mailto:sora.kadotani[at]ntt.com"
+
+[menu]
+  [[menu.main]]
+  name = "ABOUT"
+  identifier = "about"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "NEWS"
+  weight = 200
+  identifier = "news"
+  url = "/post/"
+
+[Languages]
+  [Languages.en]
+  title = "Sora Kadotani"
+  LanguageName = "English"
+  contentDir = "content/en"
+  weight = 1
+
+  [Languages.ja]
+  title = "Sora Kadotani"
+  LanguageName = "日本語"
+  contentDir = "content/ja"
+  weight = 2
+
+  [[Languages.ja.menu.main]]
+  name = "ABOUT"
+  weight = 100
+  identifier = "about"
+  url = "/ja/"
+
+  [[Languages.ja.menu.main]]
+  name = "NEWS"
+  weight = 200
+  identifier = "news"
+  url = "/ja/post/"
