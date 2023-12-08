@@ -6,6 +6,7 @@ author: "Sora Kadotani"
 ### Research Interests
 * 自然言語処理
 * 大規模言語モデル
+* ハルシネーション
 * パラフレーズ
 
 
@@ -24,6 +25,9 @@ author: "Sora Kadotani"
   **[[Paper]](https://aclanthology.org/2021.acl-srw.24/)**
 
 #### Domestic Conference
+* 門谷宙, 荒瀬由紀.
+  構文森を用いたフレーズアラインメント.
+  *NLP若手の会第17回シンポジウム ([YANS2022](https://yans.anlp.jp/entry/yans2022))*. August 2022.
 * 門谷宙, 梶原智之, 荒瀬由紀, 鬼塚真.
   編集距離に基づくカリキュラム学習を用いたスタイル変換.
   *人工知能学会第35回全国大会 ([JSAI2021](https://www.ai-gakkai.or.jp/jsai2021/))*. June 2021.
