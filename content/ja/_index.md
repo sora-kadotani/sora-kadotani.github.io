@@ -14,8 +14,8 @@ author: "Sora Kadotani"
 #### International Conference
 * Sora Kadotani, Kosuke Nishida, Kyosuke Nishida.
   Learning from Hallucinations: Mitigating Hallucinations in LLMs via Internal Representation Intervention.
-  *In Proceedings of the 14th International Joint Conference on Natural Language Processing and The 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
-  ([IJCNLP-AACL 2025](https://2025.aaclnet.org))*. December 2025. (採択率30%)
+  *In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
+  ([IJCNLP-AACL 2025](https://2025.aaclnet.org))*. Findings. December 2025. (採択率30%)
   **[[Paper]](https://aclanthology.org/hogehoge/)**
   **[[Slides]](/pdf/aacl2025_slides.pdf)**
   **[[Poster]](/pdf/aacl2025_poster.pdf)**
