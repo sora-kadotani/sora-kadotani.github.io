@@ -40,6 +40,7 @@ author: "Sora Kadotani"
   大規模言語モデルは自身のHallucinationを検知できるか?.
   *言語処理学会第30回年次大会 ([NLP 2024](https://www.anlp.jp/nlp2024/index.html))*. March 2024.
   **[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A2-1.pdf)**
+  **[[Slides]](/pdf/nlp2024_slides.pdf)**
 * 門谷 宙, 荒瀬 由紀.
   構文森を用いたフレーズアラインメント.
   *NLP若手の会第17回シンポジウム ([YANS 2022](https://yans.anlp.jp/entry/yans2022))*. August 2022.

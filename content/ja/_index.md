@@ -15,7 +15,7 @@ author: "Sora Kadotani"
 * Sora Kadotani, Kosuke Nishida, Kyosuke Nishida.
   Learning from Hallucinations: Mitigating Hallucinations in LLMs via Internal Representation Intervention.
   *In Proceedings of the 14th International Joint Conference on Natural Language Processing and The 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
-  ([IJCNLP-AACL 2025](https://2025.aaclnet.org))*. December 2025. (Acceptance rate 30%)
+  ([IJCNLP-AACL 2025](https://2025.aaclnet.org))*. December 2025. (採択率30%)
   **[[Paper]](https://aclanthology.org/hogehoge/)**
   **[[Slides]](/pdf/aacl2025_slides.pdf)**
   **[[Poster]](/pdf/aacl2025_poster.pdf)**
@@ -40,6 +40,7 @@ author: "Sora Kadotani"
   大規模言語モデルは自身のHallucinationを検知できるか?.
   *言語処理学会第30回年次大会 ([NLP 2024](https://www.anlp.jp/nlp2024/index.html))*. March 2024.
   **[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A2-1.pdf)**
+  **[[Slides]](/pdf/nlp2024_slides.pdf)**
 * 門谷 宙, 荒瀬 由紀.
   構文森を用いたフレーズアラインメント.
   *NLP若手の会第17回シンポジウム ([YANS 2022](https://yans.anlp.jp/entry/yans2022))*. August 2022.
