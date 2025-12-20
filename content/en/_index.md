@@ -12,6 +12,13 @@ author: "Sora Kadotani"
 
 ### Publications
 #### International Conference
+* Sora Kadotani, Kosuke Nishida, Kyosuke Nishida.
+  Learning from Hallucinations: Mitigating Hallucinations in LLMs via Internal Representation Intervention.
+  *In Proceedings of the 14th International Joint Conference on Natural Language Processing and The 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
+  ([IJCNLP-AACL 2025](https://2025.aaclnet.org))*. December 2025. (Acceptance rate 30%)
+  **[[Paper]](https://aclanthology.org/hogehoge/)**
+  **[[Slides]](/pdf/aacl2025_slides.pdf)**
+  **[[Poster]](/pdf/aacl2025_poster.pdf)**
 * Sora Kadotani, Yuki Arase.
   Monolingual Phrase Alignment as Parse Forest Mapping.
   *In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics
@@ -25,19 +32,31 @@ author: "Sora Kadotani"
   **[[Paper]](https://aclanthology.org/2021.acl-srw.24/)**
 
 #### Domestic Conference
-* 門谷宙, 荒瀬由紀.
+* 門谷 宙, 西田 光甫, 西田 京介, 齋藤 邦子.
+  In-model anti-expertによる大規模言語モデルのハルシネーション抑制.
+  *NLP若手の会19回シンポジウム ([YANS 2024](https://yans.anlp.jp/entry/yans2024))*. September 2024.
+  **[[Poster]](/pdf/yans2024_poster.pdf)**
+* 門谷 宙, 西田 光甫, 西田 京介, 齋藤 邦子.
+  大規模言語モデルは自身のHallucinationを検知できるか?.
+  *言語処理学会第30回年次大会 ([NLP 2024](https://www.anlp.jp/nlp2024/index.html))*. March 2024.
+  **[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A2-1.pdf)**
+* 門谷 宙, 荒瀬 由紀.
   構文森を用いたフレーズアラインメント.
-  *NLP若手の会第17回シンポジウム ([YANS2022](https://yans.anlp.jp/entry/yans2022))*. August 2022.
-* 門谷宙, 梶原智之, 荒瀬由紀, 鬼塚真.
+  *NLP若手の会第17回シンポジウム ([YANS 2022](https://yans.anlp.jp/entry/yans2022))*. August 2022.
+* 門谷 宙, 梶原 智之, 荒瀬 由紀, 鬼塚 真.
   編集距離に基づくカリキュラム学習を用いたスタイル変換.
-  *人工知能学会第35回全国大会 ([JSAI2021](https://www.ai-gakkai.or.jp/jsai2021/))*. June 2021.
+  *人工知能学会第35回全国大会 ([JSAI 2021](https://www.ai-gakkai.or.jp/jsai2021/))*. June 2021.
   **[[Paper]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_4J1GS6d04/_article/-char/ja/)**
 
+#### Preprint
+* Sora Kadotani, Kosuke Nishida, Kyosuke Nishida.
+  Can LLMs Detect Their Own Hallucinations?.
+  **[[Paper]](https://arxiv.org/abs/2511.11087)**
 
 ### Talks
 * 門谷宙.
   国際会議ACL2023参加報告.
-  *第258回自然言語処理研究発表会 ([NL研](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/研究発表会/第258回))*. December 2023.
+  *第258回自然言語処理研究発表会 ([第258回 NL研](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/研究発表会/第258回))*. December 2023.
   **[[Slides]](/pdf/nl2023-12_slides.pdf)**
 
 
