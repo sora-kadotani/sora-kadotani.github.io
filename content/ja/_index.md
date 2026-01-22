@@ -16,7 +16,7 @@ author: "Sora Kadotani"
   Learning from Hallucinations: Mitigating Hallucinations in LLMs via Internal Representation Intervention.
   *In Findings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
   ([IJCNLP-AACL 2025](https://2025.aaclnet.org))*. December 2025. (採択率30%)
-  **[[Paper]](https://aclanthology.org/hogehoge/)**
+  **[[Paper]](https://aclanthology.org/2025.findings-ijcnlp.68/)**
   **[[Slides]](/pdf/aacl2025_slides.pdf)**
   **[[Poster]](/pdf/aacl2025_poster.pdf)**
 * Sora Kadotani, Yuki Arase.
