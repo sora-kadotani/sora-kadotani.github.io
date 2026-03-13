@@ -61,7 +61,7 @@ author: "Sora Kadotani"
   **[[Paper]](https://arxiv.org/abs/2511.11087)**
 
 ### Awards
-* 言語処理学会第32回年次大会 ([NLP 2026](https://www.anlp.jp/nlp2026/index.html))* 若手奨励賞. March 2026.
+* 言語処理学会第32回年次大会 ([NLP 2026](https://www.anlp.jp/nlp2026/index.html)) 若手奨励賞. March 2026.
   門谷 宙.
   ハルシネーションから学ぶ：内部表現への介入によるハルシネーション抑制.
   **[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B2-17.pdf)**
