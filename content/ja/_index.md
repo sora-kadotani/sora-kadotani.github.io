@@ -32,6 +32,12 @@ author: "Sora Kadotani"
   **[[Paper]](https://aclanthology.org/2021.acl-srw.24/)**
 
 #### Domestic Conference
+* 門谷 宙, 西田 光甫, 西田 京介.
+  ハルシネーションから学ぶ：内部表現への介入によるハルシネーション抑制.
+  *言語処理学会第30回年次大会 ([NLP 2026](https://www.anlp.jp/nlp2026/index.html))*. March 2026. (口頭発表4%)
+  **[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B2-17.pdf)**
+  **[[Slides]](/pdf/nlp2026_slides.pdf)**
+  **[[Poster]](/pdf/nlp2026_poster.pdf)**
 * 門谷 宙, 西田 光甫, 西田 京介, 齋藤 邦子.
   In-model anti-expertによる大規模言語モデルのハルシネーション抑制.
   *NLP若手の会19回シンポジウム ([YANS 2024](https://yans.anlp.jp/entry/yans2024))*. September 2024.
@@ -53,6 +59,14 @@ author: "Sora Kadotani"
 * Sora Kadotani, Kosuke Nishida, Kyosuke Nishida.
   Can LLMs Detect Their Own Hallucinations?.
   **[[Paper]](https://arxiv.org/abs/2511.11087)**
+
+### Awards
+* 言語処理学会第32回年次大会 ([NLP 2026](https://www.anlp.jp/nlp2026/index.html))* 若手奨励賞. March 2026.
+  門谷 宙.
+  ハルシネーションから学ぶ：内部表現への介入によるハルシネーション抑制.
+  **[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B2-17.pdf)**
+  **[[Slides]](/pdf/nlp2026_slides.pdf)**
+  **[[Poster]](/pdf/nlp2026_poster.pdf)**
 
 ### Talks
 * 門谷宙.
